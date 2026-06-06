@@ -1,0 +1,4 @@
+pandas
+numpy
+snowflake-snowpark-python
+faker

@@ -1,0 +1,14 @@
+/.env
+/01_schema_setup - Copy.sql
+/01_schema_setup.sql
+/02_data_quality_audit - Copy.sql
+/02_data_quality_audit.sql
+/03_compliance_reporting - Copy.sql
+/03_compliance_reporting.sql
+/04_security_governance - Copy.sql
+/04_security_governance.sql
+/99_test_scratchpad.sql
+/audit_export_2026_06_05.csv
+/clinical_pipeline_demo.ipynb
+/clinical_pipeline_demo.py
+/requirements.txt.txt
